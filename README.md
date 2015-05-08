@@ -14,5 +14,5 @@ This is paradiso -the church that runs as a club 4.883779 52.362331 the distance
 but i expose it by using the executedbCommand and providing the radius of the earth.We can also provide max distance to limit the data
 very amateur ,but a start :)
  
-In the future I plan to use this to develop a fully blown api for listing events in ur city by distance.
+In the future I plan to use this to develop a fully blown api for listing events in ur city by distance. 
 
